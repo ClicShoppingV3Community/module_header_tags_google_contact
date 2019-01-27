@@ -1,0 +1,3 @@
+
+ module_header_tags_google_contact_meta_title = Do you want insert your contact phone in google graph ?
+ module_header_tags_google_contact_meta_description = Add  your contact phone in google graph

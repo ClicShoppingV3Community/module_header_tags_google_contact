@@ -1,0 +1,2 @@
+module_header_tags_google_contact_meta_title = Souhaitez-vous afficher le téléphone de contact de votre entreprise dans Google Graph ?
+module_header_tags_google_contact_meta_description = Ajoute le téléphone de contact de votre entreprise dans Google Graph
