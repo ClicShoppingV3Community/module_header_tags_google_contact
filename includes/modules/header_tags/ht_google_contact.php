@@ -15,8 +15,8 @@
 
   class ht_google_contact
   {
-    public string $code;
-    public string $group;
+    public $code;
+    public $group;
     public string $title;
     public string $description;
     public ?int $sort_order = 0;
@@ -60,7 +60,7 @@
    "contactPoint": [{
                    "@type": "ContactPoint",
                    "contactType": "customer support",
-                   "telephone": "[+561-526-8457]",
+                   "telephone": "[+561-526-8457]"z
                     }
                   ]
 }
